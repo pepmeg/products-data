@@ -2,6 +2,9 @@
   "products": [
     {
       "id": 1,
+      "category": null,
+      "name": null,
+      "price": null,
       "image": "bike.png",
       "discount": "30% Off"
     },
