@@ -6,7 +6,6 @@
       "name": "PEUGEOT – LR01",
       "price": "$ 1,999.99",
       "image": "byccle_photo.png",
-      "discount": null
     },
     {
       "id": 2,
@@ -14,15 +13,48 @@
       "name": "SMITH – Trade",
       "price": "$ 120",
       "image": "helmet_image.png",
-      "discount": null
+    },
+      {
+      "id": 3,
+      "category": "Road Helmet",
+      "name": "SMITH – Trade",
+      "price": "$ 120",
+      "image": "helmet_image.png",
     },
     {
-      "id": 3,
+      "id": 4,
       "category": "Mountain Bike",
       "name": "PILOT – Chromoly",
       "price": "$ 1,999.99",
       "image": "black_bike.png",
-      "discount": null
+    },
+        {
+      "id": 5,
+      "category": "Road Bike",
+      "name": "PEUGEOT – LR01",
+      "price": "$ 1,999.99",
+      "image": "byccle_photo.png",
+    },
+          {
+      "id": 6,
+      "category": "Road Helmet",
+      "name": "SMITH – Trade",
+      "price": "$ 120",
+      "image": "helmet_image.png",
+    },
+      {
+      "id": 7,
+      "category": "Road Helmet",
+      "name": "SMITH – Trade",
+      "price": "$ 120",
+      "image": "helmet_image.png",
+    },
+    {
+      "id": 8,
+      "category": "Mountain Bike",
+      "name": "PILOT – Chromoly",
+      "price": "$ 1,999.99",
+      "image": "black_bike.png",
     }
   ]
 }
