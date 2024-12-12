@@ -2,14 +2,6 @@
   "products": [
     {
       "id": 1,
-      "category": null,
-      "name": null,
-      "price": null,
-      "image": "bike.png",
-      "discount": "30% Off"
-    },
-    {
-      "id": 2,
       "category": "Road Bike",
       "name": "PEUGEOT – LR01",
       "price": "$ 1,999.99",
@@ -17,7 +9,7 @@
       "discount": null
     },
     {
-      "id": 3,
+      "id": 2,
       "category": "Road Helmet",
       "name": "SMITH – Trade",
       "price": "$ 120",
@@ -25,7 +17,7 @@
       "discount": null
     },
     {
-      "id": 4,
+      "id": 3,
       "category": "Mountain Bike",
       "name": "PILOT – Chromoly",
       "price": "$ 1,999.99",
